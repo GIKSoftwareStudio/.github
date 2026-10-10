@@ -1,0 +1,1 @@
+Welcome to GIK Studio! We are a passionate team dedicated to delivering high-quality digital products. Our expertise spans across user-centric UI/UX design, comprehensive web development (Frontend & Backend), and creative content generation. Let's build something amazing together
